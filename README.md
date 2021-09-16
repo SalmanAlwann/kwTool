@@ -31,7 +31,6 @@ kwTool is tool that developed by Salman Alwan aka JustFaQ to gather as much accu
 ```sh
 python kwAIO.py
 ```
-This will display help for the tool.
 
 <h1 align="left">
   <img src="src/hc.PNG" alt="Keywords" width="700px"></a>
